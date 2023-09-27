@@ -1,8 +1,7 @@
 {
-    "preferred" : "https://translate.tiekoetter.com/",
-    "list" : [
-        "https://translate.tiekoetter.com/",
-        "https://trap.her.st/",
-        "https://simplytranslate.pussthecat.org/"
-    ]
+    "preferred" : "https://lingva.garudalinux.org/",
+    "list" : 
+    ["https://lingva.garudalinux.org/",
+    "https://lingva.lunar.icu/",
+    "https://translate.plausibility.cloud/"]
 }
