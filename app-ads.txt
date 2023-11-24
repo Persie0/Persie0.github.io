@@ -1,4 +1,6 @@
 google.com, pub-4366209570374715, DIRECT, f08c47fec0942fa0
+pubmatic.com, 156517, reseller, 5d62403b186f2ace
+openx.com, 559912325, direct, 6a698e2ec38604c6
 applovin.com, 2a743431321adb3225fcd55b93217dc4, DIRECT
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 indexexchange.com, 206797, reseller, 50b1c356f2c5c8fc
