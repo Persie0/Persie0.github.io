@@ -1,1 +1,10 @@
+# app-ads.txt example file:
 google.com, pub-2009129597058156, DIRECT, f08c47fec0942fa0
+
+silverssp.com, 9675, RESELLER, 496211
+
+blueadexchange.com, XF436, DIRECT
+
+orangeexchange.com, 45678, RESELLER
+
+silverssp.com, ABE679, RESELLER
