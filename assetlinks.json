@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "me.gochillwith.chill_with_me",
+    "sha256_cert_fingerprints":
+    ["D7:D7:21:58:60:B2:97:E5:79:10:BC:B5:57:15:80:2A:2E:E8:8E:84:52:FD:6E:49:3F:04:2A:DF:F3:B0:B5:AA"]
+  }
+}]
